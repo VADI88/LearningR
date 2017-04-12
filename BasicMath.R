@@ -97,3 +97,8 @@ xar<-c(1,2,3,4,5,6,7,8,9,10)
 
 xar
 xar*3
+xar+2
+xar/2
+xar^2
+
+sqrt(xar)
